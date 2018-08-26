@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "588758778208",
+    "firebase_url": "https://dianfirebaserealtimedb.firebaseio.com",
+    "project_id": "dianfirebaserealtimedb",
+    "storage_bucket": "dianfirebaserealtimedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588758778208:android:bc38c54cecd955dd",
+        "android_client_info": {
+          "package_name": "id.my.dian.dianfirebaserealtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588758778208-q4ftvi9q8eq8ve82g95ktgding4lo28g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.my.dian.dianfirebaserealtimedb",
+            "certificate_hash": "2ff1015b04f1bc3a9a44982513ce92ee0ff16e02"
+          }
+        },
+        {
+          "client_id": "588758778208-e9h93nlmnollc46d4bg45dlnrqqau00h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjthxVa_hHhKVteluupxJh7_wG6Db5enI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588758778208-e9h93nlmnollc46d4bg45dlnrqqau00h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
